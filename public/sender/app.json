@@ -1,0 +1,16 @@
+{
+    "devtools_port": 9090,
+    "startup_app": {
+        "name": "fdc3-sender",
+        "url": "http://localhost:5555/sender/index.html",
+        "uuid": "fdc3-sender",
+        "applicationIcon": "http://localhost:5555/sender/favicon.ico",
+        "autoShow": true,
+        "saveWindowState": false
+    },
+    "runtime": {
+        "arguments": "--v=1",
+        "version": "9.61.34.25"
+    },
+    "shortcut": {}
+}
